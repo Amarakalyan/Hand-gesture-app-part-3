@@ -1,0 +1,39 @@
+body
+{
+  color: white;
+  background:linear-gradient(rgb(14, 252, 6) 70%, rgb(14, 112, 240) 90%);
+}
+.heading{
+  font-size: 25px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+label{
+  font-size: 20px;
+  color: rgb(11, 247, 62);
+  padding: 5px ;
+  border-radius: 10px;
+  background-color: rgb(21, 24, 224);
+}
